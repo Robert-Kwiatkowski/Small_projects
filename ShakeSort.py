@@ -1,6 +1,3 @@
-#Robert Kwiatkowski 10.11.2018
-#Algoirthms and Data Structures
-#Prosta Zmiana (ShakeSort)
 def ShakeSort(alist):
     def swap(i, j):
         alist[i], alist[j] = alist[j], alist[i]
